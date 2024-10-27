@@ -1,0 +1,109 @@
+2024-10-27 03:09:49,950 - __main__ - INFO - MongoDB connection established successfully
+2024-10-27 03:10:57,481 - __main__ - INFO - MongoDB connection established successfully
+2024-10-27 03:10:57,481 - functions.keyword_extractor - WARNING - Downloading spaCy model...
+2024-10-27 03:13:43,289 - __main__ - INFO - MongoDB connection established successfully
+2024-10-27 03:13:43,931 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-10-27 03:13:43,931 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-10-27 03:13:43,931 - werkzeug - INFO -  * Restarting with stat
+2024-10-27 03:13:47,090 - __main__ - INFO - MongoDB connection established successfully
+2024-10-27 03:13:47,626 - werkzeug - WARNING -  * Debugger is active!
+2024-10-27 03:13:47,633 - werkzeug - INFO -  * Debugger PIN: 915-370-996
+2024-10-27 03:13:50,614 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2024 03:13:50] "GET / HTTP/1.1" 200 -
+2024-10-27 03:13:50,760 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2024 03:13:50] "GET /static/css/style.css HTTP/1.1" 200 -
+2024-10-27 03:13:50,838 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2024 03:13:50] "GET /static/js/app.js HTTP/1.1" 200 -
+2024-10-27 03:13:57,621 - functions.polarity_finder - ERROR - Response parsing failed: 'choices'
+2024-10-27 03:13:58,049 - functions.keyword_extractor - ERROR - Response parsing failed: 'choices'
+2024-10-27 03:13:58,402 - functions.concern_classifier - ERROR - Response parsing failed: 'choices'
+2024-10-27 03:13:58,740 - functions.intensity_scorer - ERROR - Response parsing failed: 'choices'
+2024-10-27 03:13:59,110 - functions.timeline_analyzer - ERROR - Response parsing failed: 'choices'
+2024-10-27 03:13:59,110 - __main__ - ERROR - Analysis failed: name 'datetime' is not defined
+2024-10-27 03:13:59,116 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2024 03:13:59] "[35m[1mPOST /analyze HTTP/1.1[0m" 500 -
+2024-10-27 03:14:03,684 - functions.polarity_finder - ERROR - Response parsing failed: 'choices'
+2024-10-27 03:14:04,054 - functions.keyword_extractor - ERROR - Response parsing failed: 'choices'
+2024-10-27 03:14:04,396 - functions.concern_classifier - ERROR - Response parsing failed: 'choices'
+2024-10-27 03:14:04,845 - functions.intensity_scorer - ERROR - Response parsing failed: 'choices'
+2024-10-27 03:14:05,370 - functions.timeline_analyzer - ERROR - Response parsing failed: 'choices'
+2024-10-27 03:14:05,373 - __main__ - ERROR - Analysis failed: name 'datetime' is not defined
+2024-10-27 03:14:05,374 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2024 03:14:05] "[35m[1mPOST /analyze HTTP/1.1[0m" 500 -
+2024-10-27 03:17:24,721 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Vignesh\\OneDrive\\Pictures\\Desktop\\MentalHealthApp\\app.py', reloading
+2024-10-27 03:17:25,981 - werkzeug - INFO -  * Restarting with stat
+2024-10-27 03:17:31,702 - __main__ - INFO - MongoDB connection established successfully
+2024-10-27 03:17:32,401 - werkzeug - WARNING -  * Debugger is active!
+2024-10-27 03:17:32,401 - werkzeug - INFO -  * Debugger PIN: 915-370-996
+2024-10-27 03:19:29,682 - functions.polarity_finder - ERROR - Response parsing failed: 'choices'
+2024-10-27 03:19:30,475 - functions.keyword_extractor - ERROR - Response parsing failed: 'choices'
+2024-10-27 03:19:30,852 - functions.concern_classifier - ERROR - Response parsing failed: 'choices'
+2024-10-27 03:19:31,200 - functions.intensity_scorer - ERROR - Response parsing failed: 'choices'
+2024-10-27 03:19:31,683 - functions.timeline_analyzer - ERROR - Response parsing failed: 'choices'
+2024-10-27 03:19:32,202 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2024 03:19:32] "POST /analyze HTTP/1.1" 200 -
+2024-10-27 03:23:31,639 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2024 03:23:31] "GET / HTTP/1.1" 200 -
+2024-10-27 03:23:32,210 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2024 03:23:32] "[36mGET /static/js/app.js HTTP/1.1[0m" 304 -
+2024-10-27 03:23:32,219 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2024 03:23:32] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2024-10-27 03:32:13,853 - __main__ - INFO - MongoDB connection established successfully
+2024-10-27 03:32:14,351 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-10-27 03:32:14,351 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-10-27 03:32:14,355 - werkzeug - INFO -  * Restarting with stat
+2024-10-27 03:32:18,383 - __main__ - INFO - MongoDB connection established successfully
+2024-10-27 03:32:18,928 - werkzeug - WARNING -  * Debugger is active!
+2024-10-27 03:32:18,940 - werkzeug - INFO -  * Debugger PIN: 915-370-996
+2024-10-27 03:32:19,060 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2024 03:32:19] "GET / HTTP/1.1" 200 -
+2024-10-27 03:32:19,240 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2024 03:32:19] "[36mGET /static/js/app.js HTTP/1.1[0m" 304 -
+2024-10-27 03:32:19,242 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2024 03:32:19] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2024-10-27 03:32:25,484 - functions.polarity_finder - ERROR - API request failed: 404 Client Error: Not Found for url: https://api.groq.com/v1/chat/completions
+2024-10-27 03:32:25,959 - functions.keyword_extractor - ERROR - Response parsing failed: 'choices'
+2024-10-27 03:32:26,382 - functions.concern_classifier - ERROR - Response parsing failed: 'choices'
+2024-10-27 03:32:27,048 - functions.intensity_scorer - ERROR - Response parsing failed: 'choices'
+2024-10-27 03:32:27,504 - functions.timeline_analyzer - ERROR - Response parsing failed: 'choices'
+2024-10-27 03:32:28,113 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2024 03:32:28] "POST /analyze HTTP/1.1" 200 -
+2024-10-27 03:35:05,752 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Vignesh\\OneDrive\\Pictures\\Desktop\\MentalHealthApp\\functions\\timeline_analyzer.py', reloading
+2024-10-27 03:35:07,841 - werkzeug - INFO -  * Restarting with stat
+2024-10-27 03:35:13,819 - __main__ - INFO - MongoDB connection established successfully
+2024-10-27 03:35:14,358 - werkzeug - WARNING -  * Debugger is active!
+2024-10-27 03:35:14,372 - werkzeug - INFO -  * Debugger PIN: 915-370-996
+2024-10-27 03:35:14,975 - functions.polarity_finder - ERROR - API request failed: 404 Client Error: Not Found for url: https://api.groq.com/v1/chat/completions
+2024-10-27 03:35:15,488 - functions.keyword_extractor - ERROR - Response parsing failed: 'choices'
+2024-10-27 03:35:16,185 - functions.concern_classifier - ERROR - Response parsing failed: 'choices'
+2024-10-27 03:35:16,656 - functions.intensity_scorer - ERROR - Response parsing failed: 'choices'
+2024-10-27 03:35:17,060 - functions.timeline_analyzer - ERROR - API request failed: 404 Client Error: Not Found for url: https://api.groq.com/v1/chat/completions
+2024-10-27 03:35:17,437 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2024 03:35:17] "POST /analyze HTTP/1.1" 200 -
+2024-10-27 03:36:38,517 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Vignesh\\OneDrive\\Pictures\\Desktop\\MentalHealthApp\\functions\\keyword_extractor.py', reloading
+2024-10-27 03:36:40,107 - werkzeug - INFO -  * Restarting with stat
+2024-10-27 03:36:45,774 - __main__ - INFO - MongoDB connection established successfully
+2024-10-27 03:36:46,342 - werkzeug - WARNING -  * Debugger is active!
+2024-10-27 03:36:46,359 - werkzeug - INFO -  * Debugger PIN: 915-370-996
+2024-10-27 03:36:55,802 - functions.polarity_finder - ERROR - API request failed: 404 Client Error: Not Found for url: https://api.groq.com/v1/chat/completions
+2024-10-27 03:36:56,904 - functions.keyword_extractor - ERROR - API request failed: 404 Client Error: Not Found for url: https://api.groq.com/v1/completions
+2024-10-27 03:36:58,030 - functions.concern_classifier - ERROR - Response parsing failed: 'choices'
+2024-10-27 03:36:59,393 - functions.intensity_scorer - ERROR - Response parsing failed: 'choices'
+2024-10-27 03:37:00,298 - functions.timeline_analyzer - ERROR - API request failed: 404 Client Error: Not Found for url: https://api.groq.com/v1/chat/completions
+2024-10-27 03:37:00,944 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2024 03:37:00] "POST /analyze HTTP/1.1" 200 -
+2024-10-27 03:38:46,004 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Vignesh\\OneDrive\\Pictures\\Desktop\\MentalHealthApp\\functions\\intensity_scorer.py', reloading
+2024-10-27 03:38:48,116 - werkzeug - INFO -  * Restarting with stat
+2024-10-27 03:38:53,963 - __main__ - INFO - MongoDB connection established successfully
+2024-10-27 03:38:54,510 - werkzeug - WARNING -  * Debugger is active!
+2024-10-27 03:38:54,525 - werkzeug - INFO -  * Debugger PIN: 915-370-996
+2024-10-27 03:38:55,267 - functions.polarity_finder - ERROR - API request failed: 404 Client Error: Not Found for url: https://api.groq.com/v1/chat/completions
+2024-10-27 03:38:56,121 - functions.keyword_extractor - ERROR - API request failed: 404 Client Error: Not Found for url: https://api.groq.com/v1/completions
+2024-10-27 03:38:56,680 - functions.concern_classifier - ERROR - Response parsing failed: 'choices'
+2024-10-27 03:38:57,019 - functions.intensity_scorer - ERROR - API request failed: 404 Client Error: Not Found for url: https://api.groq.com/v1/chat/completions
+2024-10-27 03:38:57,376 - functions.timeline_analyzer - ERROR - API request failed: 404 Client Error: Not Found for url: https://api.groq.com/v1/chat/completions
+2024-10-27 03:38:57,701 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2024 03:38:57] "POST /analyze HTTP/1.1" 200 -
+2024-10-27 03:40:22,214 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Vignesh\\OneDrive\\Pictures\\Desktop\\MentalHealthApp\\functions\\concern_classifier.py', reloading
+2024-10-27 03:40:23,689 - werkzeug - INFO -  * Restarting with stat
+2024-10-27 03:40:29,116 - __main__ - INFO - MongoDB connection established successfully
+2024-10-27 03:40:29,704 - werkzeug - WARNING -  * Debugger is active!
+2024-10-27 03:40:29,714 - werkzeug - INFO -  * Debugger PIN: 915-370-996
+2024-10-27 03:40:32,893 - functions.polarity_finder - ERROR - API request failed: 404 Client Error: Not Found for url: https://api.groq.com/v1/chat/completions
+2024-10-27 03:40:33,387 - functions.keyword_extractor - ERROR - API request failed: 404 Client Error: Not Found for url: https://api.groq.com/v1/completions
+2024-10-27 03:40:33,794 - functions.concern_classifier - ERROR - API request failed: 404 Client Error: Not Found for url: https://api.groq.com/v1/chat/completions
+2024-10-27 03:40:34,187 - functions.intensity_scorer - ERROR - API request failed: 404 Client Error: Not Found for url: https://api.groq.com/v1/chat/completions
+2024-10-27 03:40:34,527 - functions.timeline_analyzer - ERROR - API request failed: 404 Client Error: Not Found for url: https://api.groq.com/v1/chat/completions
+2024-10-27 03:40:34,778 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2024 03:40:34] "POST /analyze HTTP/1.1" 200 -
+2024-10-27 03:40:40,390 - functions.polarity_finder - ERROR - API request failed: 404 Client Error: Not Found for url: https://api.groq.com/v1/chat/completions
+2024-10-27 03:40:40,819 - functions.keyword_extractor - ERROR - API request failed: 404 Client Error: Not Found for url: https://api.groq.com/v1/completions
+2024-10-27 03:40:41,170 - functions.concern_classifier - ERROR - API request failed: 404 Client Error: Not Found for url: https://api.groq.com/v1/chat/completions
+2024-10-27 03:40:42,507 - functions.intensity_scorer - ERROR - API request failed: 404 Client Error: Not Found for url: https://api.groq.com/v1/chat/completions
+2024-10-27 03:40:42,939 - functions.timeline_analyzer - ERROR - API request failed: 404 Client Error: Not Found for url: https://api.groq.com/v1/chat/completions
+2024-10-27 03:40:42,989 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2024 03:40:42] "POST /analyze HTTP/1.1" 200 -

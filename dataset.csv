@@ -1,0 +1,12 @@
+User Input,Polarity,Extracted Concern,Category,Intensity
+I am constantly worried these days.,Negative,constantly worried,Health Anxiety,4
+"I’m trying, but I’m still constantly worried.",Negative,constantly worried,Eating Disorder,3
+I am worried about health these days.,Positive,worried about health,Anxiety,9
+Every day I’m happy and excited.,Positive,happy and excited,Health Anxiety,1
+I feel happy and excited lately.,Positive,happy and excited,Depression,1
+"Sometimes, I think I'm feeling very low.",Negative,feeling very low,Insomnia,2
+My mind feels like it’s can't sleep well.,Negative,can't sleep well,Health Anxiety,6
+"It’s a struggle, I’m constantly worried.",Negative,constantly worried,Stress,10
+"Lately, I’ve been feeling very anxious.",Neutral,feeling very anxious,Health Anxiety,1
+"Sometimes, I think I'm feeling hopeful.",Negative,feeling hopeful,Health Anxiety,3
+"I’m trying, but I’m still extremely stressed.",Positive,extremely stressed,Positive Outlook,9
