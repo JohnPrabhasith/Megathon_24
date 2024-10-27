@@ -1,0 +1,7 @@
+Metric,Score
+Polarity Detection Accuracy,0.9867
+Classification Precision,0.7900
+Intensity Scoring MAE,0.8800
+Keyword Extraction Similarity,0.6600
+Timeline Analysis Coverage,0.8267
+End-to-End Pipeline Success Rate,0.8497
